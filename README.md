@@ -12,3 +12,5 @@ Welcome to my GitHub profile! Here’s a bit about me and what I’m up to:
 Let’s connect and build something amazing together!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awakened-sudo&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awakened-sudo&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)

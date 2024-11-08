@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there! 👋
 
-<!--
-**awakened-sudo/awakened-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here’s a bit about me and what I’m up to:
+	•	🔭 I’m currently working on AI-driven projects and automation solutions.
+	•	🌱 I’m diving deeper into machine learning, automation tools, and cloud services.
+	•	👯 I’m looking to collaborate on AI/ML projects and innovative automation ideas.
+	•	🤔 I’m always open to new ideas and suggestions!
+	•	💬 Ask me about AI, automation, data insights, or coding questions.
+	•	📫 How to reach me: [Your preferred contact method here]
+	•	⚡ Fun fact: I enjoy working on creative side projects and exploring new tech innovations.
 
-Here are some ideas to get you started:
+Let’s connect and build something amazing together!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awakened-sudo)](https://github.com/anuraghazra/github-readme-stats)

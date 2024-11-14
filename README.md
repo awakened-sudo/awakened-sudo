@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here’s a bit about me and what I’m up to:
 	•	👯 I’m looking to collaborate on AI/ML projects and innovative automation ideas.
 	•	🤔 I’m always open to new ideas and suggestions!
 	•	💬 Ask me about AI, automation, data insights, or coding questions.
-	•	📫 How to reach me: [Your preferred contact method here]
+	•	📫 How to reach me: hello@antiaiaiclub.com
 	•	⚡ Fun fact: I enjoy working on creative side projects and exploring new tech innovations.
 
 Let’s connect and build something amazing together!
